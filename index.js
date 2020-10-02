@@ -1,5 +1,5 @@
 var Typer = {
-  text: '',
+  text: null,
   accessCountimer: null,
   index: 0,
   speed: 2,
@@ -74,13 +74,10 @@ var Typer = {
     var cont = this.content();
 
     if (cont.substring(cont.length - 1, cont.length) == '|')
-      $('#console').html(
-        $('#console')
-          .html()
-          .substring(0, cont.length - 1),
-      );
-    else this.write('|'); // else write it
-  },
+      $('#console').html($('#console').html().substring(0, cont.length - 1));
+
+    else this.write('hello'); // else write it
+  }
 };
 
 function replaceUrls(text) {
@@ -95,8 +92,8 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 3;
-Typer.file = 'personal.txt';
+Typer.speed = 8;
+Typer.file = 'saksham.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);

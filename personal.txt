@@ -1,10 +1,11 @@
 <span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cd Saksham/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->personal.txt<br/><br/>
-Hello, friend "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+"<span id="k"></span>". <!-- sjkfhskjf -->
 
-Hello, friend <br/>Hello, friend, That's lame, I don't even know if you are a friend,<br/> I should remember that you are a person from the future and if I would have a friend in the future, let's name you 'X' for that matter.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
-you can see that this is my personal website, how dumb of me to even mention this.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+Hello, friend <br/>Hello, friend, That's lame, I don't even know if you are a friend,<br/> I should remember that you are a person from the future and if I would have a friend in it, let's name you 'X' for that matter.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+This is my website !, how dumb of me to even mention this.</p>
+<p> Everything in the universe is just one single consciousness, which means we all are one individual, you and me alike.<br/> if you wish to know about me, let me ask if you know about yourself ? </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>Anyway, if you can't comprehend the above statement let me help you a bit, my name is <doesn't matter>, I am an Aerospace Engineer by education trying to fathom the complexities of the universe. I often find myself learning new things, reading, sketching and recently into writing and programming.   
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
