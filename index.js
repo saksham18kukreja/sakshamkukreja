@@ -76,7 +76,7 @@ var Typer = {
     if (cont.substring(cont.length - 1, cont.length) == '|')
       $('#console').html($('#console').html().substring(0, cont.length - 1));
 
-    else this.write('hello'); // else write it
+    else this.write('|'); // else write it
   }
 };
 
@@ -93,7 +93,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 8;
-Typer.file = 'saksham.txt';
+Typer.file = 'personal.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
