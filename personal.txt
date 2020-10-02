@@ -12,13 +12,10 @@ This is my website!, how dumb of me to even mention this.<br>
 <li>Classification task using machine learning<a href="https://github.com/saksham18kukreja/Flower-classification"> Gamma</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --></li>
 </ul>
 <span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Contact.txt
-<br>If you excited to know about me, wait!, know about yourself, feel free to contact me here
-<pre>
-<a href="https://www.linkedin.com/in/saksham-kukreja-ba44ba180/"> Linkedin</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<a href="https://github.com/saksham18kukreja"> GitHub</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-</pre>
-
-<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="saksham.kukreja18@gmail.com">Email</a>.
+<br>After reading this you wish to know more about me, feel free to contact me here<br>  
+<a href="https://www.linkedin.com/in/saksham-kukreja-ba44ba180/"> Linkedin</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --><br>
+<a href="https://github.com/saksham18kukreja"> GitHub</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --><br>
+or email me at <a href="saksham.kukreja18@gmail.com"> saksham.kukreja18@gmail.com</a>
 
 <p>Cheers!</p>
-<span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->exit
+<span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> exit
