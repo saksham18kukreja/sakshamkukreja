@@ -1,8 +1,9 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cd Saksham/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->personal.txt<br/><br/>
+Hello, friend "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+Hello, friend <br/>Hello, friend, That's lame, I don't even know if you are a friend,<br/> I should remember that you are a person from the future and if I would have a friend in the future, let's name you 'X' for that matter.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+you can see that this is my personal website, how dumb of me to even mention this.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
