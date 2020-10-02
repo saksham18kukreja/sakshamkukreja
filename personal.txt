@@ -1,3 +1,5 @@
+Root access identified, host device hacked, initializing commands 
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cd Saksham/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">Saksham@Kukreja</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->personal.txt<br/>
 Hello, friend <br>Hello, friend, That's lame, I don't even know if you are a friend,<br> I should remember that you are a person from the future and if I would have a friend in it, let's name you 'X' for that matter.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
